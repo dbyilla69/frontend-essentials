@@ -9,7 +9,7 @@
     ```
 3.  Convert the mock-data set to an object where movieId will be the unique key for each item.
     ```js
-    //example
+    //example outocme
     const moviesById = {
       1: { id: 1, name: '', title: '', time: '', theaterAddress: '' },
       2: { id: 1, name: '', title: '', time: '', theaterAddress: '' }
